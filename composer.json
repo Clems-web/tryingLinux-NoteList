@@ -1,0 +1,9 @@
+{
+    "name": "clem/trying-linux-note-list",
+    "autoload": {
+        "psr-4": {
+            "Clem\\TryingLinuxNoteList\\": "src/"
+        }
+    },
+    "require": {}
+}

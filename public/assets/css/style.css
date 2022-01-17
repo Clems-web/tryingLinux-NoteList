@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+    font-family: 'Roboto', sans-serif;
+}
+
+#mainContainer {
+    width: 100%;
+    height: 100vh;
+    background-color: #ac5217;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#noteContainer {
+    width: 90%;
+    height: fit-content;
+    min-height: 80rem;
+}
+
+textarea {
+    width: 100%;
+    height: 80rem;
+    font-size: 3rem;
+    border-radius: 1.5rem;
+    padding: 1rem;
+}
